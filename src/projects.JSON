@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Bootstrap Portfolio",
+        "image": "https://github.com/YaszMoon/Bootstrap-Portfolio/blob/2df1eb40fe8d12191780435dd67cd1edf6cde808/assets/images/example.png",
+        "description": "A basic portfolio page created using Bootstrap.",
+        "gitRepo": "https://github.com/YaszMoon/Bootstrap-Portfolio",
+        "gitPage": "https://yaszmoon.github.io/Bootstrap-Portfolio/"
+    },
+    {
+        "id": 2,
+        "name": "Password Generator",
+        "image": "https://github.com/YaszMoon/FEWDB-week05/blob/820cd1c4f4d694a0af67ea6fe0232589ea4b10a9/assets/password_generator_example.png",
+        "description": "Application that generates a password based on user input.",
+        "gitRepo":"https://github.com/YaszMoon/FEWDB-week05-Password-Generator",
+        "gitPage": "https://yaszmoon.github.io/FEWDB-week05-Password-Generator/"
+    },
+    {
+        "id": 3,
+        "name": "Javascript Code Quiz",
+        "image": "https://github.com/YaszMoon/FEWDB-week06-JS-Code-Quiz/blob/main/assets/videos/quiz-demo.gif",
+        "description": "Application that runs a code quiz - Topic:Javascript.",
+        "gitRepo": "https://github.com/YaszMoon/FEWDB-week06-JS-Code-Quiz",
+        "gitPage": "https://yaszmoon.github.io/FEWDB-week06-JS-Code-Quiz/"
+    },
+    {
+        "id": 4,
+        "name": "Daily Planner",
+        "image": "https://github.com/YaszMoon/FEWDB-week07-DailyPlanner/blob/52930ae8323111d4c06ce6d12521bfd3da4869e9/assets/videos/daily-planner-demo.gif",
+        "description": "A digital planner which can be used to keep track of appointments throughout the workday.",
+        "gitRepo": "https://github.com/YaszMoon/FEWDB-week07-DailyPlanner",
+        "gitPage": "https://yaszmoon.github.io/FEWDB-week07-DailyPlanner/"
+    },
+    {
+        "id": 5,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/YaszMoon/FEWDB-week08-Weather-Dashboard/blob/544f653d65ca706286926b35915149787840c32f/assets/images/weather-dashboard.png",
+        "description": "Application that allows the user to search for the current weather and 5-day forecast of any city.",
+        "gitRepo": "https://github.com/YaszMoon/FEWDB-week08-Weather-Dashboard",
+        "gitPage": "https://yaszmoon.github.io/FEWDB-week08-Weather-Dashboard/"
+    },
+    {
+        "id": 6,
+        "name": "Team Profile ",
+        "image": "https://github.com/YaszMoon/FEWDB-week12-Team-Profile-Generator/blob/4ad65f3561437e5d50099f9a9137d5eef01c67af/assets/images/example.png",
+        "description": "Application that creates a profile page for members of a team based on user input.",
+        "gitRepo": "https://github.com/YaszMoon/FEWDB-week12-Team-Profile-Generator",
+        "gitPage": "Not deployed. React App."
+    }
+]
