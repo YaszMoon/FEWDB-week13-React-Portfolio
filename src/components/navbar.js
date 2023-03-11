@@ -4,9 +4,9 @@ import { NavLink } from "react-router-dom";
 function Navbar() {
   return (
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">
+      {/* <a class="navbar-brand" href="#">
         Navbar
-      </a>
+      </a> */}
       <button
         class="navbar-toggler"
         type="button"
@@ -24,7 +24,7 @@ function Navbar() {
             to="/"
             end
             className={({ isActive }) =>
-              isActive ? "nav-link sr-only active" : "nav-link sr-only"
+              isActive ? "nav-link active" : "nav-link sr-only"
             }
           >
             Home
